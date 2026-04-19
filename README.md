@@ -4,7 +4,7 @@ ASM(Automatic Storage Management) 환경에서 Oracle 19c Single Instance 구축
 
 ---
 
-## 환경 구성
+### 환경 구성
 
 | 항목 | 내용 |
 |------|------|
@@ -16,7 +16,7 @@ ASM(Automatic Storage Management) 환경에서 Oracle 19c Single Instance 구축
 
 ---
 
-## 설치 순서
+### 설치 순서
 
 | 순서 | 문서 |
 |------|------|
@@ -27,7 +27,7 @@ ASM(Automatic Storage Management) 환경에서 Oracle 19c Single Instance 구축
 
 ---
 
-## 주요 특징
+### 주요 특징
 
 - ASM을 활용한 스토리지 관리 구성
 - CRS / DATA / RECO 디스크 그룹 구성
