@@ -1,7 +1,6 @@
 # ASM 환경에서 Oracle 19c 설치
 
 ASM(Automatic Storage Management) 환경에서 Oracle 19c Single Instance 구축 가이드입니다.
-VirtualBox 기반의 실습 환경에서 직접 설치하며 작성한 문서입니다.
 
 ---
 
